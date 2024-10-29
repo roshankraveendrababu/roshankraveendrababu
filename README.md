@@ -32,4 +32,7 @@
 ❯❯❯
 
 
+[![My full collection of 4 hacktoberfest 2024 badges for my valuable contribution to open source](https://holopin.me/roshankraveendrababu)](https://holopin.io/@roshankraveendrababu)
+
+
 
