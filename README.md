@@ -131,33 +131,11 @@
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
 
  <p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
-```bash
-📂 ~/git:(master) ⚡
-❯❯❯ cat ~/whoami.md
-──────┬──────────────────────────────────────────────────────────────
-      │ File: /home/RoshanKR/whoami.md
-──────┼──────────────────────────────────────────────────────────────
-      |  class Programmer :
-      |        def __init__(self):
-      |            self.name                =  "Roshan KR"
-      |            self.language_spoken     =  ["ta_IN", "en_US", "te_IN"]
-      |
-      |        def say_hi(self):
-      |            print( "Hello !!! Nice to have you on my GitHub Profile" )
-      |
-      |        def reachOut_to_me(self):
-      |            self.Website               = https://www.roshan.xyz
-      │            self.Twitter               = https://twitter.com/roshankr0912
-      │            self.Telegram              = https://t.me/roshan_konidhala_2004
-      |            self.Instagram             = https://www.instagram.com/roshan_._kr/
-)
-      |
-──────┴──────────────────────────────────────────────────────────────
-📂 ~/code
-❯❯❯
 
 
-[![My full collection of 4 hacktoberfest 2024 badges for my valuable contribution to open source](https://holopin.me/roshankraveendrababu)](https://holopin.io/@roshankraveendrababu)
-
-
+<p align="center">
+<a href="https://www.linkedin.com/in/roshan-konidhala?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>   &nbsp;&nbsp;&nbsp;  
+<a href="mailto:krroshan4646@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
+<a href="https://github.com/roshankraveendrababu" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> <br>   
+</p>
 
