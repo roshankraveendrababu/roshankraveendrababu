@@ -46,6 +46,35 @@
 <!-- Pinned repo --->
 <h2 style="color: #44AEFB">📌 Pinned Repositories</h2>
 
+<br>
+<a href="https://github.com/roshankraveendrababu/securin_patch_intelligence">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=securin_patch_intelligence&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+
+<a href="https://github.com/roshankraveendrababu/Optiprice-Prognasticator">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=Optiprice-Prognasticator&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+
+<br>
+<br>
+
+<a href="https://github.com/roshankraveendrababu/Smart-attendance-system">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=Smart-attendance-system&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+
+<br>
+<br>
+
+<a href="https://github.com/roshankraveendrababu/gender-age-prediction">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=roshankraveendrababu&repo=gender-age-prediction&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
+</a>
+
+<br>
+
+
 
 
 <!--- trophies --->
